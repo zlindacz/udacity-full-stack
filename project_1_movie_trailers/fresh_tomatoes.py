@@ -1,3 +1,19 @@
+########################################################################
+# Project 1: Movie Trailer Website
+# Date Completed: 12/6/2016
+# Original author: Udacity
+# Modified by: Linda Zhang
+########################################################################
+
+######################### fresh_tomatoes file ##########################
+# This module builds and displays an HTML page made using a list of
+# Movie instances. It requires the webbrowser module for displaying
+# HTML, the os.path module for generating the absolutized URL from file
+# path, and finally, re, the regular expression module, for parsing URLs
+# specified by each Movie instance's box art and movie trailer.
+########################################################################
+
+
 import webbrowser
 import os
 import re

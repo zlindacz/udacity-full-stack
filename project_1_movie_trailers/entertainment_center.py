@@ -1,3 +1,16 @@
+########################################################################
+# Project 1: Movie Trailer Website
+# Date Completed: 12/6/2016
+# Submitted by: Linda Zhang
+########################################################################
+
+###################### entertainment_center file #######################
+# This module uses the class Movie defined in media.py to create
+# Movie instances. It also requires the fresh_tomatoes module for use of
+# its open_movies_page function to create the HTML page that will
+# display these movie instances
+########################################################################
+
 import media
 import fresh_tomatoes
 

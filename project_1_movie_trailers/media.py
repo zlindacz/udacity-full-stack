@@ -1,5 +1,17 @@
+########################################################################
+# Project 1: Movie Trailer Website
+# Date Completed: 12/6/2016
+# Submitted by: Linda Zhang
+########################################################################
+
+############################## Media File ##############################
+# This module creates the class Movie to allow for its use in the
+# entertainment_center.py module. This definition of the class Movie
+# was obtained through the course.
+########################################################################
+
 class Movie():
-    """This class provides a way to store move-related information"""
+    """This class provides a way to store movie-related information"""
 
     # A movie instance will have the following properties
     def __init__(self, movie_title, movie_storyline, movie_rating,
