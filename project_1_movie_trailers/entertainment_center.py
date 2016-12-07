@@ -6,7 +6,7 @@
 
 ###################### entertainment_center file #######################
 # This module uses the class Movie defined in media.py to create
-# Movie instances. It also requires the fresh_tomatoes module for use of
+# Movie instances. It also requires the fresh_tomatoes module for
 # its open_movies_page function to create the HTML page that will
 # display these movie instances
 ########################################################################

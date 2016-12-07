@@ -6,7 +6,7 @@
 ########################################################################
 
 ######################### fresh_tomatoes file ##########################
-# This module builds and displays an HTML page made using a list of
+# This module builds and displays an HTML page using a list of
 # Movie instances. It requires the webbrowser module for displaying
 # HTML, the os.path module for generating the absolutized URL from file
 # path, and finally, re, the regular expression module, for parsing URLs

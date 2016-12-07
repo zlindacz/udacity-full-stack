@@ -7,7 +7,7 @@
 ############################## Media File ##############################
 # This module creates the class Movie to allow for its use in the
 # entertainment_center.py module. This definition of the class Movie
-# was obtained through the course.
+# was obtained through the course and modified by me.
 ########################################################################
 
 class Movie():
