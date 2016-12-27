@@ -4,7 +4,7 @@ import gulp from 'gulp';
 import responsive from 'gulp-responsive';
 
 gulp.task('default', () => {
-  return gulp.src('images/**/*.{png,jpg}')
+  return gulp.src('assets/images/*.{png,jpg}')
     .pipe(responsive({
       // produce multiple images from one source
       '**/*.jpg': [{
