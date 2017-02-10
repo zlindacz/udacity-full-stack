@@ -19,7 +19,7 @@ api_version: 1  # version of said env, until new one comes out
 threadsafe: true  # app uses concurrent requests (req. for Python 2.7)
 
 # handlers are a list of URL patterns and descriptions
-# of how they should be handled0
+# of how they should be handled
 handlers:
   # directory to store static files, such as stylesheets, images, JS
 - url: /static
